@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Developer | Open Source Enthusiast | [Portfolio](https://github.com/Jsprajapati/Project-Portfolio)**
 
-I'm a passionate software engineer with 2.8 years of experience transforming ideas into scalable solutions. My expertise spans across Python, PHP, Kubernetes, and Ruby on Rails, and I've worked on AI-driven projects, full-stack development, and upgrading legacy systems. I enjoy building user-centric solutions, optimizing LLM responses, and leading client projects.
+I'm a passionate software engineer with ~3 years of experience transforming ideas into scalable solutions. My expertise spans across Python, PHP, Kubernetes, and Ruby on Rails, and I've worked on AI-driven projects, full-stack development, and upgrading legacy systems. I enjoy building user-centric solutions, optimizing LLM responses, and leading client projects.
 
 ---
 
