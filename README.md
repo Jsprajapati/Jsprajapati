@@ -8,7 +8,7 @@ I'm a passionate software engineer with 2.8 years of experience transforming ide
 
 ## 🚀 Skills & Technologies
 
-**Languages:** Python, PHP, Java, C  
+**Languages:** Python, PHP, Java, Ruby  
 **Frameworks & Libraries:** Ruby on Rails, CodeIgniter, Laravel, ReactJS, VueJS, FastAPI  
 **DevOps & Cloud:** Kubernetes, Docker, Jenkins, Ansible  
 **Web Development:** Node.js, Angular, Express.js, Bootstrap, HTML5, CSS3  
